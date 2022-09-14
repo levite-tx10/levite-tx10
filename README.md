@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @levite-tx10
+- 👋 Hi, I’m Levi Mukaru - (@levite-tx10)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning dart and Flutter
 - 💞️ I’m looking to collaborate on ...
